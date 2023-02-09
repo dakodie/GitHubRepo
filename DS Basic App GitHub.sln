@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS Basic App GitHub", "DS Basic App GitHub\DS Basic App GitHub.csproj", "{D01E2217-0C55-46C9-A106-8809FA49D65C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{238F4EAF-C3B7-4091-8C27-ED8A1FA83C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01E2217-0C55-46C9-A106-8809FA49D65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01E2217-0C55-46C9-A106-8809FA49D65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01E2217-0C55-46C9-A106-8809FA49D65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01E2217-0C55-46C9-A106-8809FA49D65C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238F4EAF-C3B7-4091-8C27-ED8A1FA83C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238F4EAF-C3B7-4091-8C27-ED8A1FA83C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238F4EAF-C3B7-4091-8C27-ED8A1FA83C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238F4EAF-C3B7-4091-8C27-ED8A1FA83C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E2DC9FD-E606-4EE6-9416-967E8BBB8BF5}
+	EndGlobalSection
+EndGlobal
